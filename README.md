@@ -14,7 +14,7 @@ funcional
 + Mostrar la relación de cursos matriculados y sus estudiantes correspondientes
 usando programación funcional (sugerencia, usar un Map<K,V>)
 
-[localhost:8080/api/enrollments/list](localhost:8080/api/enrollments/list)
+    [localhost:8080/api/enrollments/list](localhost:8080/api/enrollments/list)
 
 ```
 {
