@@ -9,7 +9,7 @@ funcional
 
 > Se agrego u parametro opcional para ordenar ya sea descendente(DESC) o ascendente(ASC) por defecto es ascendente por nombre
 
-    [localhost:8080/api/students?order=DESC](localhost:8080/api/students?order=DESC)
+    localhost:8080/api/students?order=DESC
 
 + Mostrar la relación de cursos matriculados y sus estudiantes correspondientes
 usando programación funcional (sugerencia, usar un Map<K,V>)
