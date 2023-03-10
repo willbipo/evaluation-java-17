@@ -5,11 +5,11 @@
 + Listar estudiantes ordenados de forma descendente por edad usando programación
 funcional
 
-[localhost:8080/api/students](localhost:8080/api/students)
+    [localhost:8080/api/students](localhost:8080/api/students)
 
-    Se agrego u parametro opcional para ordenar ya sea descendente(DESC) o ascendente(ASC) por defecto es ascendente por nombre
+> Se agrego u parametro opcional para ordenar ya sea descendente(DESC) o ascendente(ASC) por defecto es ascendente por nombre
 
-[localhost:8080/api/students?order=DESC](localhost:8080/api/students?order=DESC)
+    [localhost:8080/api/students?order=DESC](localhost:8080/api/students?order=DESC)
 
 + Mostrar la relación de cursos matriculados y sus estudiantes correspondientes
 usando programación funcional (sugerencia, usar un Map<K,V>)
