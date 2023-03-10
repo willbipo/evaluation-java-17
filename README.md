@@ -1,13 +1,13 @@
 # Evaluación Curso Java Backend 17
 
-Se agrego postman collection para pruebas
+> Se agrego postman collection para pruebas
 
 + Listar estudiantes ordenados de forma descendente por edad usando programación
 funcional
 
 localhost:8080/api/students
 
-## se agrego u parametro opcional para ordenar ya sea descendente(DESC) o ascendente(ASC) por defecto es ascendente por nombre
+Se agrego u parametro opcional para ordenar ya sea descendente(DESC) o ascendente(ASC) por defecto es ascendente por nombre
 
 localhost:8080/api/students?order=DESC
 
