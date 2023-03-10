@@ -29,6 +29,5 @@ localhost:8080/api/enrollments/list
 }
 ```
 
-+ 
 
 
